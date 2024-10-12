@@ -434,6 +434,11 @@
               <FileType>5</FileType>
               <FilePath>..\Core\Inc\callback.h</FilePath>
             </File>
+            <File>
+              <FileName>interrupt.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Core\Src\interrupt.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
